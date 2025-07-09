@@ -20,6 +20,7 @@ This project explores **image sharpening** using a **teacher-student framework**
 |--------|-------|
 | SSIM   | ~86.24 |
 | PSNR   | ~29.2 |
+| FPS Benchmark | 9.88 |
 
 ---
 
