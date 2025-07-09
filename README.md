@@ -9,7 +9,7 @@ This project explores **image sharpening** using a **teacher-student framework**
 - **Teacher Model**: ResNet-50
 - **Student Model**: Lightweight CNN 
 - **Task**: Learn sharpening filters via KD
-- **Dataset**: DIV2K
+- **Dataset**: BSDS500
 - **Metric**: Structural Similarity Index (SSIM), Peak Signal-to-Noise Ratio (PSNR)
 
 ---
