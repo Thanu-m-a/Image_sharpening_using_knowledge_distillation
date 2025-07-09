@@ -1,4 +1,4 @@
-![Input](https://github.com/user-attachments/assets/ce262cfd-a41f-4867-81ec-f2b737fb52d0)# Image Sharpening using Knowledge Distillation
+# Image Sharpening using Knowledge Distillation
 
 This project explores **image sharpening** using a **teacher-student framework** through **knowledge distillation (KD)**. The goal is to enhance image clarity by learning from a pretrained high-capacity model (e.g., SwinIR or ResNet-50) and distilling the sharpening knowledge into a lightweight student model.
 
@@ -50,7 +50,7 @@ jupyter notebook image_sharpening_kd.ipynb
 
 | Input | Output (Sharpened) |
 |-------|--------------------|
-| ![Image](https://github.com/user-attachments/assets/edf6ff88-6a9d-449b-98f7-4d87cd1bd32d) | ![Output](results/output_sharp.jpg) | <img width="256" height="256" alt="Image" src="https://github.com/user-attachments/assets/59fbd0fc-5c00-40dc-b32f-5f51c2b508f0" />
+| ![Image](https://github.com/user-attachments/assets/cb79ae65-64a7-4871-a51a-3b40fa9ac08a) | <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/59fbd0fc-5c00-40dc-b32f-5f51c2b508f0" />
 
 ---
 
