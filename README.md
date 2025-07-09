@@ -1,6 +1,6 @@
 # Image Sharpening using Knowledge Distillation
 
-This project explores **image sharpening** using a **teacher-student framework** through **knowledge distillation (KD)**. The goal is to enhance image clarity by learning from a pretrained high-capacity model ResNet-50 and distilling the sharpening knowledge into a lightweight student model.
+This project explores **image sharpening** using a **teacher-student framework** through **knowledge distillation (KD)**. This project demonstrates how to sharpen low-resolution or blurred images using a lightweight **student model** trained with **knowledge distillation** pretrained high-capacity model ResNet-50 from a more powerful **teacher model**. The training is guided by structural similarity (SSIM), Peak Signal-to-Noise Ratio (PSNR), mean squared error (MSE), and output matching with the teacher.
 
 ---
 
