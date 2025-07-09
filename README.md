@@ -62,6 +62,3 @@ jupyter notebook image_sharpening_kd.ipynb
 
 ---
 
-## License
-
-MIT License
