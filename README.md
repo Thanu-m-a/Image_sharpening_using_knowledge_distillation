@@ -1,6 +1,6 @@
 # Image Sharpening using Knowledge Distillation
 
-This project explores **image sharpening** using a **teacher-student framework** through **knowledge distillation (KD)**. The goal is to enhance image clarity by learning from a pretrained high-capacity model (e.g., SwinIR or ResNet-50) and distilling the sharpening knowledge into a lightweight student model.
+This project explores **image sharpening** using a **teacher-student framework** through **knowledge distillation (KD)**. The goal is to enhance image clarity by learning from a pretrained high-capacity model ResNet-50 and distilling the sharpening knowledge into a lightweight student model.
 
 ---
 
@@ -9,7 +9,7 @@ This project explores **image sharpening** using a **teacher-student framework**
 - **Teacher Model**: ResNet-50
 - **Student Model**: Lightweight CNN 
 - **Task**: Learn sharpening filters via KD
-- **Dataset**: BSDS500 
+- **Dataset**: DIV2K
 - **Metric**: Structural Similarity Index (SSIM), Peak Signal-to-Noise Ratio (PSNR)
 
 ---
@@ -50,7 +50,7 @@ jupyter notebook image_sharpening_kd.ipynb
 
 | Input | Output (Sharpened) |
 |-------|--------------------|
-| ![Image](https://github.com/user-attachments/assets/cb79ae65-64a7-4871-a51a-3b40fa9ac08a) | <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/59fbd0fc-5c00-40dc-b32f-5f51c2b508f0" />
+| <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/87ca8034-3810-4e9c-9ddc-c162a2ddedc7" /> | <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/59fbd0fc-5c00-40dc-b32f-5f51c2b508f0" />
 
 ---
 
