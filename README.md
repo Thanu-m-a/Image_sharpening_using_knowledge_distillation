@@ -18,7 +18,7 @@ This project explores **image sharpening** using a **teacher-student framework**
 
 | Metric | Value |
 |--------|-------|
-| SSIM   | ~0.85 |
+| SSIM   | ~86.24 |
 | PSNR   | ~29.2 |
 
 ---
