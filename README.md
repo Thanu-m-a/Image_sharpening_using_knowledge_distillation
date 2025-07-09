@@ -50,7 +50,7 @@ jupyter notebook image_sharpening_kd.ipynb
 
 | Input | Output (Sharpened) |
 |-------|--------------------|
-| <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/87ca8034-3810-4e9c-9ddc-c162a2ddedc7" /> | <img width="190" height="130" alt="Image" src="https://github.com/user-attachments/assets/59fbd0fc-5c00-40dc-b32f-5f51c2b508f0" />
+| <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/87ca8034-3810-4e9c-9ddc-c162a2ddedc7" /> | <img width="190" height="120" alt="Image" src="https://github.com/user-attachments/assets/59fbd0fc-5c00-40dc-b32f-5f51c2b508f0" />
 
 ---
 
