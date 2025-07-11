@@ -9,7 +9,7 @@ This project explores **image sharpening** using a **teacher-student framework**
 - **Teacher Model**: ResNet-50
 - **Student Model**: Lightweight CNN 
 - **Task**: Learn sharpening filters via KD
-- **Dataset**: BSDS500
+- **Dataset**: DIV2K
 - **Metric**: Structural Similarity Index (SSIM), Peak Signal-to-Noise Ratio (PSNR)
 
 ---
@@ -58,7 +58,7 @@ jupyter notebook image_sharpening_kd.ipynb
 ## References
 
 - ResNet50: [https://arxiv.org/abs/2108.10257](https://medium.com/@nitishkundu1993/exploring-resnet50-an-in-depth-look-at-the-model-architecture-and-code-implementation-d8d8fa67e46f)
-- BSDS500 Dataset: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
+- DIV2K Dataset: [https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
 
 ---
 
